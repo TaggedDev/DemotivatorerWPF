@@ -22,7 +22,6 @@
         <Image x:Name="ImagePresent" HorizontalAlignment="Left" Height="600" Width="500" Margin="15,15,0,0" VerticalAlignment="Top" OpacityMask="Black"/>
         <Border x:Name="ImageBorder" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="600" Margin="15,15,0,0" VerticalAlignment="Top" Width="500"/>
 
-        <!-- CONTROL MENU -->
 
         <Grid HorizontalAlignment="Left" Height="460" Margin="520,15,0,0" VerticalAlignment="Top" Width="170">
 
