@@ -6,19 +6,7 @@
         xmlns:local="clr-namespace:Demotivatorer"
         mc:Ignorable="d"
         Title="Demotivator Editor" Height="700" Width="710" ResizeMode="NoResize">
-    <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition/>
-        </Grid.ColumnDefinitions>
-        <Grid.Background>
-            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                <GradientStop Color="#FF444444" Offset="0"/>
-                <GradientStop Color="#FF343434" Offset="0.993"/>
-            </LinearGradientBrush>
-        </Grid.Background>
-
-        <!-- IMAGE -->
-
+    gde ya....
         <Image x:Name="ImagePresent" HorizontalAlignment="Left" Height="600" Width="500" Margin="15,15,0,0" VerticalAlignment="Top" OpacityMask="Black"/>
         <Border x:Name="ImageBorder" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="600" Margin="15,15,0,0" VerticalAlignment="Top" Width="500"/>
 
