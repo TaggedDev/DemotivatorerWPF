@@ -10,6 +10,7 @@ namespace Demotivatorer
 {
     /// <summary>
     /// Логика взаимодействия для App.xaml
+    //dsfjdsolfkjfd;slfdjs
     /// </summary>
     //
     public partial class App : Application
