@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using System.Windows;
 
 namespace Demotivatorer
+    BOOBA
 {
     /// <summary>
     /// Логика взаимодействия для App.xaml
