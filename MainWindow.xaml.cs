@@ -35,7 +35,8 @@ namespace Demotivatorer
         private void ShakalButton_Checked(object sender, RoutedEventArgs e)
         //GOga
         {
-
+            string something = "Hello, GitHub";
+            ShakalButton.Content = something;
         }
     }
 }
