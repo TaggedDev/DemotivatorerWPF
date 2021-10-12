@@ -33,6 +33,7 @@ namespace Demotivatorer
         }
 
         private void ShakalButton_Checked(object sender, RoutedEventArgs e)
+        //GOga
         {
 
         }
