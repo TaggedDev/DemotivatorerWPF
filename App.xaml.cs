@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 //Why are u using that?
-
+//What?
 namespace Demotivatorer
 {
     /// <summary>

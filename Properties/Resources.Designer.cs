@@ -8,6 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 //Aboba? ili net?
+//What's this?
 
 namespace Demotivatorer.Properties
 {
