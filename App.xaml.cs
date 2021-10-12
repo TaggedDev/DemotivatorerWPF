@@ -13,6 +13,7 @@ namespace Demotivatorer
     /// </summary>
     //
     public partial class App : Application
+    //Giga Goga
     {
     }
 }
