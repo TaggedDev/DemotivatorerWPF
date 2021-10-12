@@ -7,7 +7,7 @@
 //     код создан повторно.
 // </auto-generated>
 //------------------------------------------------------------------------------
-
+//Aboba? ili net?
 
 namespace Demotivatorer.Properties
 {
