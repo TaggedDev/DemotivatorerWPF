@@ -29,12 +29,12 @@ namespace Demotivatorer
 
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
-
+            TextButton.Width = TextButton.Height;
         }
 
         private void ShakalButton_Checked(object sender, RoutedEventArgs e)
         {
-            DownloadButton.Content = "Hello, world!";
+            ShakalButton.Content = "Hello, world!";
         }
     }
 }
