@@ -34,7 +34,8 @@ namespace Demotivatorer
 
         private void ShakalButton_Checked(object sender, RoutedEventArgs e)
         {
-            ShakalButton.Content = "Hello, world!";
+            string something = "Hello, GitHub";
+            ShakalButton.Content = something;
         }
     }
 }
