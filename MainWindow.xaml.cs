@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Demotivatorer //boba
+namespace Demotivatorer
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
